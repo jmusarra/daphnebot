@@ -1,4 +1,4 @@
 # daphnebot
 DAPHNE BOT
 
-VR selfie? You look dumb.
+Twitter bot for @daphnemir. Based on Tweepy - https://github.com/tweepy/tweepy
